@@ -1,0 +1,41 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+brew "coreutils"
+brew "git"
+brew "mas"
+brew "openssl@1.1"
+cask "adobe-acrobat-reader"
+cask "alfred"
+cask "azure-data-studio"
+cask "caffeine"
+cask "discord"
+cask "dropbox"
+cask "firefox"
+cask "gas-mask"
+cask "google-chrome"
+cask "grammarly"
+cask "iterm2"
+cask "microsoft-teams"
+cask "onedrive"
+cask "powershell"
+cask "royal-tsx"
+cask "slack"
+cask "spotify"
+cask "steam"
+cask "teamviewer"
+cask "transmission"
+cask "transmit"
+cask "visual-studio-code"
+cask "vlc"
+mas "BetterSnapTool", id: 417375580
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Divvy", id: 413857545
+mas "Drafts", id: 1435957248
+mas "FileZilla Pro", id: 1298486723
+mas "FruitJuice", id: 671736912
+mas "Magnet", id: 441258766
+mas "OmniFocus", id: 1346203938
+mas "Strongbox", id: 1270075435
+mas "Things", id: 904280696
+mas "Xcode", id: 497799835
