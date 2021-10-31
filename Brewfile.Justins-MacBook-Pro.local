@@ -37,3 +37,20 @@ cask "transmission"
 cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
+mas "BetterSnapTool", id: 417375580
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Divvy", id: 413857545
+mas "Drafts", id: 1435957248
+mas "FileZilla Pro", id: 1298486723
+mas "FruitJuice", id: 671736912
+mas "GarageBand", id: 682658836
+mas "GoodNotes", id: 1444383602
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "OmniFocus", id: 1346203938
+mas "Pages", id: 409201541
+mas "Strongbox", id: 1270075435
+mas "Things", id: 904280696
+mas "Xcode", id: 497799835
