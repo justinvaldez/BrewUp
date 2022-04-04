@@ -50,6 +50,7 @@ cask "transmission"
 cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
+mas "Bear", id: 1091189122
 mas "BetterSnapTool", id: 417375580
 mas "Drafts", id: 1435957248
 mas "FruitJuice", id: 671736912
