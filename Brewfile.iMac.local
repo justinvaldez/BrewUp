@@ -49,7 +49,6 @@ cask "powershell"
 cask "royal-tsx"
 cask "slack"
 cask "spotify"
-cask "steam"
 cask "teamviewer"
 cask "transmission"
 cask "transmit"
@@ -58,7 +57,6 @@ cask "vlc"
 mas "Bear", id: 1091189122
 mas "BetterSnapTool", id: 417375580
 mas "Drafts", id: 1435957248
-mas "FruitJuice", id: 671736912
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
