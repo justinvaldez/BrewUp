@@ -25,7 +25,7 @@ brew "python-tk@3.9"
 brew "terraform"
 brew "terraformer"
 brew "terraforming"
-brew "weaveworks/tap/eksctl"
+brew "weaveworks/tap/eksctl", link: false
 cask "alfred"
 cask "azure-data-studio"
 cask "beyond-compare"
