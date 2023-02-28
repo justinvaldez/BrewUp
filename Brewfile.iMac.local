@@ -21,7 +21,6 @@ brew "go"
 brew "helm"
 brew "jq"
 brew "kubernetes-cli"
-brew "kubernetes-cli@1.22"
 brew "mas"
 brew "multimarkdown"
 brew "node"
@@ -67,3 +66,17 @@ cask "transmission"
 cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
+mas "Bear", id: 1091189122
+mas "BetterSnapTool", id: 417375580
+mas "CleanMyMac X", id: 1339170533
+mas "Drafts", id: 1435957248
+mas "GoodNotes", id: 1444383602
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Magnet", id: 441258766
+mas "Numbers", id: 409203825
+mas "OmniFocus", id: 1346203938
+mas "Pages", id: 409201541
+mas "Strongbox", id: 1270075435
+mas "Things", id: 904280696
+mas "Xcode", id: 497799835
