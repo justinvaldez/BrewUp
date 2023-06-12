@@ -7,7 +7,7 @@ brew "coreutils"
 brew "gnutls"
 brew "cask"
 brew "cmctl"
-brew "docker", link: false
+brew "docker"
 brew "git"
 brew "helm"
 brew "hyperkit"
