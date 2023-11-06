@@ -18,7 +18,7 @@ brew "gnutls"
 brew "cask"
 brew "certbot"
 brew "cmctl"
-brew "docker", link: false
+brew "docker"
 brew "eksctl"
 brew "etcd"
 brew "git"
