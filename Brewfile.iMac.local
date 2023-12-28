@@ -86,7 +86,6 @@ cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
 mas "BetterSnapTool", id: 417375580
-mas "CleanMyMac X", id: 1339170533
 mas "Drafts", id: 1435957248
 mas "Goodnotes", id: 1444383602
 mas "iMovie", id: 408981434
