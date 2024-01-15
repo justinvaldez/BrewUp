@@ -43,7 +43,7 @@ brew "virtualenv"
 brew "wimlib"
 brew "azure/kubelogin/kubelogin"
 brew "mac-cleanup/mac-cleanup-py/mac-cleanup-py"
-brew "powershell/tap/powershell"
+brew "powershell/tap/powershell", link: false
 brew "pulumi/tap/pulumi"
 brew "strongdm/comply/comply"
 cask "alfred"
