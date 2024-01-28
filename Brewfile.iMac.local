@@ -67,6 +67,7 @@ cask "google-chrome"
 cask "grammarly"
 cask "hazel"
 cask "iina"
+cask "istat-menus"
 cask "iterm2"
 cask "microsoft-edge"
 cask "microsoft-office"
@@ -80,6 +81,7 @@ cask "powershell"
 cask "royal-tsx"
 cask "slack"
 cask "spotify"
+cask "steam"
 cask "sublime-text"
 cask "teamviewer"
 cask "transmission"
@@ -89,8 +91,10 @@ cask "vlc"
 mas "BetterSnapTool", id: 417375580
 mas "Drafts", id: 1435957248
 mas "Goodnotes", id: 1444383602
+mas "Grammarly for Safari", id: 1462114288
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
+mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
 mas "Numbers", id: 409203825
 mas "OmniFocus", id: 1346203938
