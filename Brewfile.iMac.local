@@ -100,9 +100,11 @@ mas "Pages", id: 409201541
 mas "Save to Reader", id: 1640236961
 mas "Strongbox", id: 1270075435
 mas "Things", id: 904280696
+mas "VMware Remote Console", id: 1230249825
 mas "Xcode", id: 497799835
 vscode "4ops.terraform"
 vscode "adamwojcikit.cli-for-microsoft-365-extension"
+vscode "amazonwebservices.amazon-q-vscode"
 vscode "amazonwebservices.aws-toolkit-vscode"
 vscode "atlassian.atlascode"
 vscode "bencoleman.armview"
