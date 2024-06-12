@@ -104,7 +104,6 @@ mas "VMware Remote Console", id: 1230249825
 mas "Xcode", id: 497799835
 vscode "4ops.terraform"
 vscode "adamwojcikit.cli-for-microsoft-365-extension"
-vscode "amazonwebservices.amazon-q-vscode"
 vscode "amazonwebservices.aws-toolkit-vscode"
 vscode "atlassian.atlascode"
 vscode "bencoleman.armview"
