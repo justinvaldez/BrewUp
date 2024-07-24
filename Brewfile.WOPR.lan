@@ -1,0 +1,105 @@
+tap "homebrew/bundle"
+brew "python@3.11"
+brew "awscli"
+brew "azure-cli"
+brew "coreutils"
+brew "unbound"
+brew "gnutls"
+brew "cask"
+brew "cmctl"
+brew "docker", link: false
+brew "git"
+brew "helm"
+brew "hyperkit"
+brew "kubernetes-cli"
+brew "mas"
+brew "minikube"
+brew "multimarkdown"
+brew "mysql-client"
+brew "nghttp2"
+brew "node"
+brew "nvm"
+brew "openjdk"
+brew "pipenv"
+brew "python@3.9"
+brew "python-tk@3.9"
+brew "python@3.10"
+brew "skaffold"
+cask "adobe-acrobat-reader"
+cask "alfred"
+cask "appcleaner"
+cask "azure-data-studio"
+cask "beekeeper-studio"
+cask "beyond-compare"
+cask "brave-browser"
+cask "caffeine"
+cask "discord"
+cask "docker"
+cask "dropbox"
+cask "firefox"
+cask "gas-mask"
+cask "github"
+cask "google-chrome"
+cask "grammarly"
+cask "hazel"
+cask "iterm2"
+cask "microsoft-edge"
+cask "microsoft-teams"
+cask "notion"
+cask "onedrive"
+cask "openvpn-connect"
+cask "powershell"
+cask "royal-tsx"
+cask "slack"
+cask "spotify"
+cask "steam"
+cask "teamviewer"
+cask "transmission"
+cask "transmit"
+cask "visual-studio-code"
+cask "vlc"
+mas "BetterSnapTool", id: 417375580
+mas "Brother iPrint&Scan", id: 1193539993
+mas "Divvy", id: 413857545
+mas "Drafts", id: 1435957248
+mas "FileZilla Pro", id: 1298486723
+mas "FruitJuice", id: 671736912
+mas "GarageBand", id: 682658836
+mas "Goodnotes", id: 1444383602
+mas "Grammarly for Safari", id: 1462114288
+mas "iMovie", id: 408981434
+mas "Instapaper Save", id: 1481302432
+mas "Keynote", id: 409183694
+mas "LastPass", id: 926036361
+mas "Magnet", id: 441258766
+mas "NordVPN", id: 905953485
+mas "Numbers", id: 409203825
+mas "OmniFocus", id: 1346203938
+mas "Pages", id: 409201541
+mas "SonicWall Mobile Connect", id: 822514576
+mas "Strongbox", id: 1270075435
+mas "Xcode", id: 497799835
+vscode "amazonwebservices.aws-toolkit-vscode"
+vscode "aws-scripting-guy.cform"
+vscode "cweijan.dbclient-jdbc"
+vscode "cweijan.vscode-mysql-client2"
+vscode "dannysteenman.cdk-snippets"
+vscode "esbenp.prettier-vscode"
+vscode "github.vscode-pull-request-github"
+vscode "gitpod.gitpod-desktop"
+vscode "gitpod.gitpod-remote-ssh"
+vscode "kddejong.vscode-cfn-lint"
+vscode "luminusdev.azureloginaws"
+vscode "ms-azuretools.vscode-docker"
+vscode "ms-kubernetes-tools.vscode-kubernetes-tools"
+vscode "ms-mssql.data-workspace-vscode"
+vscode "ms-mssql.mssql"
+vscode "ms-mssql.sql-bindings-vscode"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-toolsai.jupyter"
+vscode "ms-toolsai.vscode-jupyter-cell-tags"
+vscode "ms-toolsai.vscode-jupyter-slideshow"
+vscode "redhat.vscode-yaml"
+vscode "ria.elastic"
