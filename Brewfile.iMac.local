@@ -88,6 +88,7 @@ cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
 mas "BetterSnapTool", id: 417375580
+mas "Bitwarden", id: 1352778147
 mas "Drafts", id: 1435957248
 mas "Goodnotes", id: 1444383602
 mas "Grammarly for Safari", id: 1462114288
