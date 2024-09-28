@@ -98,6 +98,7 @@ mas "Instapaper Save", id: 1481302432
 mas "Keynote", id: 409183694
 mas "LastPass", id: 926036361
 mas "Magnet", id: 441258766
+mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "OmniFocus", id: 1346203938
 mas "Pages", id: 409201541
@@ -184,6 +185,7 @@ vscode "sndst00m.markdown-github-dark-pack"
 vscode "timonwong.shellcheck"
 vscode "visualstudioexptteam.intellicode-api-usage-examples"
 vscode "visualstudioexptteam.vscodeintellicode"
+vscode "vscjava.vscode-gradle"
 vscode "vscjava.vscode-java-debug"
 vscode "vscjava.vscode-java-dependency"
 vscode "vscjava.vscode-java-pack"
