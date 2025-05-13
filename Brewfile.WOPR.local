@@ -1,6 +1,6 @@
 tap "homebrew/bundle"
-brew "python@3.11"
 brew "awscli"
+brew "python@3.11"
 brew "azure-cli"
 brew "coreutils"
 brew "unbound"
