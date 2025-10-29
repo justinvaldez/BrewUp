@@ -1,0 +1,23 @@
+brew "automake"
+brew "cmake"
+brew "fd"
+brew "git"
+brew "jq"
+brew "make"
+brew "mas"
+brew "multitail"
+brew "pipx"
+brew "ripgrep"
+brew "rustup"
+brew "tealdeer"
+brew "tree"
+brew "unzip"
+cask "alacritty"
+cask "brave-browser"
+cask "powershell"
+cask "slack"
+mas "Bear", id: 1091189122
+mas "Divvy", id: 413857545
+mas "Draft Sharks Sync", id: 6494988126
+mas "PDFgear", id: 6469021132
+mas "Strongbox", id: 897283731
