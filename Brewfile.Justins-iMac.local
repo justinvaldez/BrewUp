@@ -1,8 +1,10 @@
 brew "automake"
 brew "cmake"
+brew "eksctl"
 brew "fd"
 brew "git"
 brew "jq"
+brew "kubernetes-cli"
 brew "make"
 brew "mas"
 brew "multitail"
@@ -16,8 +18,11 @@ cask "alacritty"
 cask "brave-browser"
 cask "powershell"
 cask "slack"
-mas "Bear", id: 1091189122
+cask "vlc"
+mas "Adobe Lightroom", id: 1451544217
 mas "Divvy", id: 413857545
-mas "Draft Sharks Sync", id: 6494988126
+mas "Grammarly for Safari", id: 1462114288
+mas "Numbers", id: 361304891
 mas "PDFgear", id: 6469021132
+mas "Save to Reader", id: 1640236961
 mas "Strongbox", id: 897283731
