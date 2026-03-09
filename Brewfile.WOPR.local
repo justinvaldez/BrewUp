@@ -43,6 +43,7 @@ cask "google-chrome"
 cask "grammarly"
 cask "hazel"
 cask "iterm2"
+cask "macdown"
 cask "microsoft-edge"
 cask "microsoft-teams"
 cask "notion"
@@ -58,6 +59,7 @@ cask "transmission"
 cask "transmit"
 cask "visual-studio-code"
 cask "vlc"
+mas "Adobe Lightroom", id: 1451544217
 mas "BetterSnapTool", id: 417375580
 mas "Brother iPrint&Scan", id: 1193539993
 mas "Divvy", id: 413857545
@@ -72,13 +74,11 @@ mas "Keynote", id: 409183694
 mas "LastPass", id: 926036361
 mas "Maccy", id: 1527619437
 mas "Magnet", id: 441258766
-mas "NordVPN", id: 905953485
 mas "Numbers", id: 409203825
 mas "OmniFocus", id: 1346203938
 mas "Pages", id: 409201541
 mas "PDFgear", id: 6469021132
 mas "Save to Reader", id: 1640236961
-mas "SonicWall Mobile Connect", id: 822514576
 mas "Strongbox", id: 1270075435
 mas "Xcode", id: 497799835
 vscode "amazonwebservices.aws-toolkit-vscode"
