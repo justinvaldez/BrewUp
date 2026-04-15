@@ -1,0 +1,30 @@
+brew "automake"
+brew "cmake"
+brew "eksctl"
+brew "fd"
+brew "git"
+brew "jq"
+brew "kubernetes-cli"
+brew "make"
+brew "mas"
+brew "mole"
+brew "multitail"
+brew "p7zip"
+brew "pipx"
+brew "powershell", link: false
+brew "ripgrep"
+brew "rustup"
+brew "tealdeer"
+brew "tree"
+brew "unzip"
+cask "brave-browser"
+cask "powershell"
+cask "slack"
+cask "vlc"
+mas "Adobe Lightroom", id: 1451544217
+mas "Divvy", id: 413857545
+mas "Grammarly for Safari", id: 1462114288
+mas "Numbers", id: 361304891
+mas "PDFgear", id: 6469021132
+mas "Save to Reader", id: 1640236961
+mas "Strongbox", id: 897283731
