@@ -10,6 +10,7 @@ brew "make"
 brew "mas"
 brew "mole"
 brew "multitail"
+brew "node"
 brew "p7zip"
 brew "pipx"
 brew "powershell", link: false
