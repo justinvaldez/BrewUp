@@ -1,29 +1,56 @@
+# Tool for generating GNU Standards-compliant Makefiles
 brew "automake"
+# Microsoft Azure CLI 2.0
 brew "azure-cli"
+# Cross-platform make
 brew "cmake"
+# Simple command-line tool for creating clusters on Amazon EKS
 brew "eksctl"
+# Simple, fast and user-friendly alternative to find
 brew "fd"
+# Distributed revision control system
 brew "git"
+# Lightweight and flexible command-line JSON processor
 brew "jq"
+# Kubernetes command-line interface
 brew "kubernetes-cli"
+# Utility for directing compilation
 brew "make"
+# Mac App Store command-line interface
 brew "mas"
+# Deep clean and optimize your Mac
 brew "mole"
+# Tail multiple files in one terminal simultaneously
 brew "multitail"
+# Open-source, cross-platform JavaScript runtime environment
 brew "node"
+# 7-Zip (high compression file archiver) implementation
 brew "p7zip"
+# Execute binaries from Python packages in isolated environments
 brew "pipx"
+# PDF rendering library (based on the xpdf-3.0 code base)
+brew "poppler"
+# Command-line shell and scripting language
 brew "powershell", link: false
+# Search tool like grep and The Silver Searcher
 brew "ripgrep"
+# Rust toolchain installer
 brew "rustup"
+# Very fast implementation of tldr in Rust
 brew "tealdeer"
+# Display directories as trees (with optional color/HTML output)
 brew "tree"
+# Extraction utility for .zip compressed archives
 brew "unzip"
+# Port of OpenAI's Whisper model in C/C++
 brew "whisper-cpp"
+# Feature-rich command-line audio/video downloader
 brew "yt-dlp"
+# Web browser focusing on privacy
 cask "brave-browser"
+# Command-line shell and scripting language
 cask "powershell"
-cask "slack"
+# Multimedia player
 cask "vlc"
 mas "Adobe Lightroom", id: 1451544217
 mas "Divvy", id: 413857545
