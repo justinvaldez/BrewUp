@@ -25,7 +25,7 @@ if [ -z $(which realpath) ]; then
 fi
 cd $(dirname "$(realpath "$0")")
 
-git pull 2>&1
+git pull --rebase --autostash 2>&1
 
 # Brew Diagnotic
 echo "${yellow}==>${reset} Running Brew Diagnotic..."
