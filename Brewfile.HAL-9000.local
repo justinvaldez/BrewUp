@@ -1,15 +1,24 @@
+tap "bro3886/tap", "https://github.com/BRO3886/homebrew-tap"
 # Tool for generating GNU Standards-compliant Makefiles
 brew "automake"
 # Microsoft Azure CLI 2.0
 brew "azure-cli"
+# Anti-virus software
+brew "clamav"
 # Cross-platform make
 brew "cmake"
 # Simple command-line tool for creating clusters on Amazon EKS
 brew "eksctl"
 # Simple, fast and user-friendly alternative to find
 brew "fd"
+# GitHub command-line tool
+brew "gh"
 # Distributed revision control system
 brew "git"
+# Quickly rewrite git repository history
+brew "git-filter-repo"
+# Audit git repos for secrets
+brew "gitleaks"
 # Lightweight and flexible command-line JSON processor
 brew "jq"
 # Kubernetes command-line interface
@@ -30,8 +39,8 @@ brew "p7zip"
 brew "pipx"
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler"
-# Command-line shell and scripting language
-brew "powershell", link: false
+# Software environment for statistical computing
+brew "r"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
 # Rust toolchain installer
@@ -46,10 +55,15 @@ brew "unzip"
 brew "whisper-cpp"
 # Feature-rich command-line audio/video downloader
 brew "yt-dlp"
+# Fast, native macOS Calendar CLI built on go-eventkit
+brew "bro3886/tap/ical", trusted: true
 # Web browser focusing on privacy
 cask "brave-browser"
-# Command-line shell and scripting language
+# Extensible coding agent for the terminal
+cask "grok-build"
 cask "powershell"
+# Team communication and collaboration software
+cask "slack"
 # Multimedia player
 cask "vlc"
 mas "Adobe Lightroom", id: 1451544217
