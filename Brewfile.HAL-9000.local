@@ -15,8 +15,6 @@ brew "powershell"
 brew "bro3886/tap/ical"
 # Web browser focusing on privacy
 cask "brave-browser"
-# Terminal-based AI coding assistant
-cask "claude-code@latest"
 # Application window manager focusing on simplicity
 cask "divvy"
 # Client for the Dropbox cloud storage service
@@ -41,5 +39,7 @@ cask "slack"
 cask "thinkorswim"
 # Voice-to-text dictation with AI-powered auto-editing
 cask "wispr-flow"
+mas "iMovie", id: 408981434
+mas "Microsoft Outlook", id: 985367838
 mas "PDFgear", id: 6469021132
 mas "Strongbox", id: 897283731
