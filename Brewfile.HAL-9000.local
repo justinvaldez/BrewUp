@@ -9,8 +9,14 @@ brew "gh"
 brew "kubernetes-cli"
 # Mac App Store command-line interface
 brew "mas"
+# Remote terminal application
+brew "mosh"
+# PDF rendering library (based on the xpdf-3.0 code base)
+brew "poppler"
 # Command-line shell and scripting language
 brew "powershell"
+# Terminal multiplexer
+brew "tmux"
 # Fast, native macOS Calendar CLI built on go-eventkit
 brew "bro3886/tap/ical"
 # Web browser focusing on privacy
@@ -35,6 +41,8 @@ cask "obsidian"
 cask "royal-tsx"
 # Team communication and collaboration software
 cask "slack"
+# Mesh VPN based on WireGuard
+cask "tailscale-app"
 # Desktop client for TD Ameritrade trading platform
 cask "thinkorswim"
 # Voice-to-text dictation with AI-powered auto-editing
