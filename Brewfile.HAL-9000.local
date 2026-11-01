@@ -1,6 +1,4 @@
 tap "bro3886/tap", "https://github.com/BRO3886/homebrew-tap", trusted: true
-# Microsoft Azure CLI 2.0
-brew "azure-cli"
 # Simple command-line tool for creating clusters on Amazon EKS
 brew "eksctl"
 # GitHub command-line tool
@@ -19,24 +17,16 @@ brew "powershell"
 brew "sqlcmd"
 # Terminal multiplexer
 brew "tmux"
-# Fast, native macOS Calendar CLI built on go-eventkit
-brew "bro3886/tap/ical"
-# Web browser focusing on privacy
-cask "brave-browser"
+# Microsoft Azure CLI 2.0
+cask "azure-cli"
 # Application window manager focusing on simplicity
 cask "divvy"
 # Client for the Dropbox cloud storage service
 cask "dropbox"
 # Desktop client for GitHub repositories
 cask "github"
-# Grammarly for desktop
-cask "grammarly-desktop"
 # Terminal emulator as alternative to Apple's Terminal app
 cask "iterm2"
-# Screen and video recording software
-cask "loom"
-# Multi-platform web browser
-cask "microsoft-edge"
 # Knowledge base that works on top of a local folder of plain text Markdown files
 cask "obsidian"
 # Remote management solution
@@ -45,10 +35,6 @@ cask "royal-tsx"
 cask "slack"
 # Mesh VPN based on WireGuard
 cask "tailscale-app"
-# Desktop client for TD Ameritrade trading platform
-cask "thinkorswim"
-# Voice-to-text dictation with AI-powered auto-editing
-cask "wispr-flow"
 mas "iMovie", id: 408981434
 mas "Microsoft Outlook", id: 985367838
 mas "PDFgear", id: 6469021132
