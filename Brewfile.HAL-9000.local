@@ -12,11 +12,13 @@ brew "mosh"
 # PDF rendering library (based on the xpdf-3.0 code base)
 brew "poppler"
 # Command-line shell and scripting language
-brew "powershell"
+brew "powershell", pin: true
 # Microsoft SQL Server command-line interface
 brew "sqlcmd"
 # Terminal multiplexer
 brew "tmux"
+# High-performance theorem prover
+brew "z3"
 # Microsoft Azure CLI 2.0
 cask "azure-cli"
 # Application window manager focusing on simplicity
